@@ -1,5 +1,7 @@
 ## hei på deg !! 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kinekoder&label=Profile%20views&color=0e75b6&style=flat" alt="kinekoder" /> </p>
+
 - 🔭 I’m currently working on gyt games !! 
 - 🌱 I’m currently learning moreeee python
 
